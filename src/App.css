@@ -1,15 +1,24 @@
-body,html, #root {
+body, html, #root {
   height: 100%;
   margin:0%;
+}
+
+h2{
+  margin-bottom: 20px;
+}
+
+p{
+  font-size: 18px;
+  color:#17c6b5;
 }
 
 /* Navbar */
 .navbar {
   display: flex;
   justify-content: space-between;
-  padding: 20px 50px;
+  padding: 15px 30px;
   background: #020617;
-  position: absolute;
+  position: fixed;
   top: 0;
   width: 100%;
 }
@@ -55,10 +64,13 @@ body,html, #root {
   align-items: center;
   text-align: center;
   background: #0f172a;
+  margin-top: 70px;
   color: white;
 }
 /* Footer */
 .footer {
-  margin-top: 20px;
+  margin-top: 50px;
+  text-align: center;
+  padding: 20px;
   color: white;
 }
