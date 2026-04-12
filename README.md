@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-## 🚀 About
+## About
 A modern personal portfolio website built with React + Vite to showcase my skills, projects, and contact details.
 
 ## 🛠️ Tech Stack
@@ -8,12 +8,12 @@ A modern personal portfolio website built with React + Vite to showcase my skill
 - Vite
 - CSS
 
-## 📂 Features
+## Features
 - Home Page
 - About Me Section
 - Contact Section
 
-## 📌 Future Improvements
+## Future Improvements
 - Add Projects section
 - Make responsive design
 - Deploy on cloud
