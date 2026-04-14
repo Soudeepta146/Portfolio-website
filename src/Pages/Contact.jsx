@@ -2,8 +2,14 @@ function Contact(){
     return(
         <section id="contact" className="section">
             <h2>Contact Me</h2>
-            <p>Email:soudeepta2004bhattacharjee@gmail.com</p>
-            <p>GitHub: https://github.com/Soudeepta146 </p>
+            <p>Email:
+                <a href="mailto:soudeepta2004bhattacharjee@gmail.com">
+                    soudeepta2004bhattacharjee@gmail.com</a>
+            </p>
+            <p>GitHub:
+                <a href="https://github.com/Soudeepta146" target="_blank" rel="noopener noreferrer">
+                    github.com/Soudeepta146</a> 
+            </p>
         </section>
     )
 };
