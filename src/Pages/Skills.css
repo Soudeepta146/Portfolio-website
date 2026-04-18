@@ -1,0 +1,69 @@
+/* ===== MAIN SECTION ===== */
+.skills-section {
+  padding: 80px 10%;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #0a192f, #020c1b);
+  color: white;
+}
+
+/* HEADING */
+.skills-section h1 {
+  font-size: 2.8rem;
+  margin-bottom: 40px;
+}
+
+/* ===== CONTAINER ===== */
+.skills-container {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+  /* justify-content: space-between; */
+  /* gap: 40px; */
+}
+
+/* ===== COLUMN ===== */
+.skills-column {
+  flex: 1;
+  backdrop-filter: blur(12px);
+  background: rgba(255, 255, 255, 0.04);
+  padding: 25px;
+  border-radius: 15px;
+  border: 1px solid rgba(255,255,255,0.08);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  min-height: 300px;
+}
+
+/* COLUMN TITLE */
+.skills-column h2 {
+  font-size: 1.4rem;
+  margin-bottom: 20px;
+  color: #64ffda;
+}
+
+/* LIST */
+.skills-column ul {
+  list-style: none;
+  padding: 0;
+}
+
+/* SKILL ITEM */
+.skills-column li {
+  padding: 10px 0;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  transition: 0.3s;
+}
+
+/* REMOVE LAST BORDER */
+.skills-column li:last-child {
+  border-bottom: none;
+}
+
+/* HOVER */
+.skills-column li:hover {
+  color: #64ffda;
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(100, 255, 218, 0.2);
+}

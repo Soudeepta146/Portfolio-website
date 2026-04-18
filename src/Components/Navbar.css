@@ -1,0 +1,45 @@
+/* NAVBAR */
+.navbar {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  height: 70px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0 40px; /* FIXED padding */
+  box-sizing: border-box; /* 🔥 VERY IMPORTANT */
+
+  background: rgba(4, 12, 31, 0.95);
+  backdrop-filter: blur(10px);
+
+  z-index: 1000;
+}
+
+/* LOGO */
+.logo {
+  font-size: 1.8rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/* LINKS CONTAINER */
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+
+/* LINKS */
+.nav-links a {
+  font-size: 15px;
+  color: #adb9c1;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.nav-links a:hover {
+  color: #38bdf8;
+}
