@@ -1,5 +1,5 @@
 import "./Home.css";
-import profile from "../assets/profile.jpeg"
+import profile from "../assets/Profile.jpeg"
 import Achievements from "./Achievements";
 import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
 
