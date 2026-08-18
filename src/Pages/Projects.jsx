@@ -15,8 +15,8 @@ function Projects(){
                 <FaRobot />
             </div>
             
-            <h3>AI Job Recommendation</h3>
-            <p>Created with Node.js</p>
+            <h3>Solara</h3>
+            <p>Created with FastAPI</p>
         </div>
 
         {/* PROJECT 2 */}
@@ -24,8 +24,8 @@ function Projects(){
             <div className="project-icon">
                 <FaRobot />
             </div>
-                <h3>Calculator</h3>
-                <p>Created with JavaScript, HTML & CSS</p>
+                <h3>Royal Dum Biriyani</h3>
+                <p>Created with React.js, Vite, Tailwind CSS and Framer Motion.</p>
         </div>
 
         {/* PROJECT 3 (OPTIONAL ADD LIKE IMAGE) */}
@@ -33,7 +33,15 @@ function Projects(){
             <div className="project-icon">
                 <FaRobot />
             </div>
-            <h3>TicTacToe</h3>
+            <h3>AI Job Recommendation</h3>
+            <p>Created with Node.Js</p>
+        </div>
+
+        <div className="project-card">
+            <div className="project-icon">
+                <FaRobot />
+            </div>
+            <h3>Tic Tac Toe</h3>
             <p>Created with HTML, CSS and JS</p>
         </div>
 

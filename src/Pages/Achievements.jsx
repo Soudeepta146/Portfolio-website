@@ -14,7 +14,7 @@ function Achievements() {
 
         <div className="achievement-card">
           <h3>🏫 College</h3>
-          <p>Currently pursuing BCA at Brainware University, focusing on Full Stack Development.</p>
+          <p>Currently pursuing BCA at Brainware University, focusing on Software Engineer.</p>
         </div>
 
         <div className="achievement-card">
@@ -24,7 +24,7 @@ function Achievements() {
 
         <div className="achievement-card">
           <h3>🏆 Future Goals</h3>
-          <p>Aspiring to become a Cloud & Full Stack Developer, focusing on Microsoft Azure,modern web technologies, and building scalable, real-world applications.
+          <p>Aspiring to become a Software Engineer, focusing on Data Structure and Algorithm.
           </p>
         </div>
 

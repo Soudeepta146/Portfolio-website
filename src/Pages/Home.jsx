@@ -14,7 +14,7 @@ function Home(){
                 </h1>
 
 
-                <h3> I am a Full Stack Developer with expertise in building scalable, efficient web applications. I deliver secure solutions by integrating modern front-end frameworks with robust back-end systems.</h3>
+                <h3>I am a Software Engineer with expertise in developing end-to-end applications, optimizing system performance, and leveraging modern frameworks to build efficient, user-centric software.</h3>
                 
                 <div className="social-icons">
                     <a href="https://github.com/Soudeepta146" target="_blank"> <FaGithub />

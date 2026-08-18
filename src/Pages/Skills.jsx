@@ -13,12 +13,13 @@ function Skills(){
         <div className="skills-column">
           <h2>Technical Skills</h2>
           <ul>
+            <li>Python</li>
             <li>HTML</li>
             <li>CSS</li>
             <li>JavaScript</li>
-            <li>React</li>
-            <li>Node.js</li>
-            <li>Python</li>
+            <li>DBMS</li>
+            <li>SQL</li>
+            <li>DSA</li>
             <li>GitHub</li>
           </ul>
         </div>
